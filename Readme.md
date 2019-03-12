@@ -1,5 +1,7 @@
 Group number 15
 
+Design a game
+
 Members: 
 
 Vo Minh Duc 
